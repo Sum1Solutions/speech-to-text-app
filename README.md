@@ -1,12 +1,11 @@
-# HIPAA-Compliant Voice-to-Text Transcription
+# Voice-to-Text Transcription
 
-This is a simple, local voice-to-text transcription tool that uses OpenAI's Whisper model to provide a HIPAA-compliant transcription solution. The application runs entirely on your local machine, ensuring that no audio data is sent to the cloud.
+This is a simple, local voice-to-text transcription tool that uses OpenAI's Whisper model to provide a transcription solution. The application runs entirely on your local machine, ensuring that no audio data is sent to the cloud.
 
 ## Features
 
 *   **Local Transcription:** All transcription is done locally, so your data remains private.
 *   **GUI Interface:** A simple graphical interface allows you to record and transcribe audio with the click of a button.
-*   **HIPAA Compliant:** By keeping all data on your local machine, this tool helps you meet HIPAA privacy requirements.
 
 ## Usage
 
